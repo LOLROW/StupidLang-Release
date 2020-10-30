@@ -1,0 +1,22 @@
+=> add 8
+loop: <= add 9 => sub 1
+<= print
+sub 3 print
+add 7 print print
+add 3 print
+loop: sub 1
+=> add 4
+loop: <= add 8 => sub 1
+<= print
+loop: sub 1
+=> add 29
+loop: <= add 3 => sub 1
+<= print
+sub 8 print
+add 3 print
+sub 6 print
+sub 8 print
+loop: sub 1
+=> add 11
+loop: <= add 3 => sub 1
+<= print
